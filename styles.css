@@ -1,0 +1,28 @@
+.paint-canvas {
+  border: 1px black solid;
+  display: block;
+  margin: 1rem;
+}
+
+#parsed_content {
+position: absolute;
+z-index: 1;
+
+  margin-left: 0px;
+
+}
+
+#paint {
+
+	position: absolute;
+
+  z-index: 2;
+  margin-left: 0px;
+}
+
+#paint_button {
+        position: fixed;
+        top: 0;
+
+}
+
